@@ -1,5 +1,5 @@
 - Hi, I’m Vita
-- Currently studying at Northeastern university
+- I am currently studying CS at Northeastern university
 - Projects available upon request
 
 <!---
