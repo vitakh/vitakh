@@ -1,5 +1,6 @@
 - Hi, I’m Vita
 - I am currently studying CS at Northeastern university
+- Personal website: https://vita-khan.netlify.app/
 - Projects available upon request
 
 <!---
